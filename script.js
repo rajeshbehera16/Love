@@ -5,7 +5,7 @@ var sketchProc = function(processingInstance) {
     smooth();
     
     var fontSize = 130;
-    var content = "BUBBLE\nTEXT";
+    var content = "Raju\nDolly";
 
 
 
