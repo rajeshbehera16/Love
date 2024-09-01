@@ -5,7 +5,7 @@ var sketchProc = function(processingInstance) {
     smooth();
     
     var fontSize = 130;
-    var content = "Raju\nDolly";
+    var content = "Raju\nLove\nDolly";
 
 
 
